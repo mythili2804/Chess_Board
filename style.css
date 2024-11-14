@@ -1,0 +1,31 @@
+html{
+    background-color: gray
+}
+body{
+    background-color: rgb(237, 237, 237);
+    height: 800px;
+    width: 800px;
+    margin: 20px auto;
+}
+.row{
+    width:100%;
+    height: 100px;
+    
+    float:left;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    float:left;
+    font-size: 4rem;
+    text-align: center;
+}
+.black{
+    background-color: black;
+}
+.bc{
+    color:rgb(104, 101, 99)
+}
+.wc{
+    color:rgb(144, 200, 211)
+}
